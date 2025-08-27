@@ -1,1 +1,5 @@
 Mango[[:space:]]Tennis[[:space:]]Build[[:space:]]1.0.wasm filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+Mango.wasm filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 60fd76003c7abf70ac4f9c95346c9b4afedb9d86
